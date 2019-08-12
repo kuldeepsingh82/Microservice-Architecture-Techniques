@@ -1,7 +1,7 @@
 
 # Microservice-Architecture-Techniques
 
-Consider reading the mentioned recommendation before starting any microservices bases architecture
+Consider reading the mentioned recommendations before starting any microservices bases architecture
 
   
 
